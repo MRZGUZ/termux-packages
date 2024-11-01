@@ -43,8 +43,8 @@ TERMUX_CONFIG_PREFIX_DIR_PATH="${TERMUX_ETC_PREFIX_DIR_PATH}/termux"
 TERMUX_BOOTSTRAP_CONFIG_DIR_PATH="${TERMUX_CONFIG_PREFIX_DIR_PATH}/bootstrap"
 
 # Path to CGCT tools
-CGCT_DEFAULT_PREFIX="/data/data/com.termux/files/usr/glibc"
-export CGCT_DIR="/data/data/com.termux/cgct"
+CGCT_DEFAULT_PREFIX="/data/data/com.webs/files/usr/glibc"
+export CGCT_DIR="/data/data/com.webs.app/cgct"
 
 # Package name for the packages hosted on the repo.
 # This must only equal TERMUX_APP_PACKAGE if using custom repo that
